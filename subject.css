@@ -1,8 +1,33 @@
 body {
-    background-color: green;
-    font: 12px/14px sans-serif;
+    background-color: #00FFFF;
+    font: 1.2em "Lucida Console", sans-serif;
+}
+
+p {
+	margin-left: 5px;
+    color: #FF00FF;
 }
 
 h1 {
-    color: blue;
+    color: #7D0552;
+    border-bottom: 1px solid #8D99AE;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+
+h2 {
+    border-top: 1px solid #8D99AE;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	display: inline;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.section {
+	display: flex;
 }
