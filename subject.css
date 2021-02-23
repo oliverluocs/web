@@ -11,14 +11,11 @@ p {
 h1 {
     color: #7D0552;
     border-bottom: 1px solid #8D99AE;
+font-family: "Trebuchet MS", Verdana, sans-serif;
 }
 
 h2 {
     border-top: 1px solid #8D99AE;
-}
-
-ul {
-	list-style: none;
 }
 
 li {
