@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title> Lamps </title>
+        </head>
+<body>
+   <div id="home">
+      <h1> <a href="site.html">Lamps</a> </h1>
+    </div>
+
+    <div id="select">
+      <ul>
+        <li><a href="site.html">Home</a> </li>
+        <li><a href="info/history.html">History</a> </li>
+        <li><a href="info/types.html">Types of Lamps</a> </li>
+        <li><a href="jobs/lampexamples.html">Lamps Personified</a> </li>
+      </ul>
+    </div>
+    
+    <div id="types">
+    
+    <h2>Types of Lamps</h2>
+<p>Standard type lamps are the most common found anywhere. Styles will run the gamut from old fashioned to futuristic, but the basic design remains a tall body with cylinder lampshade surrounding.</p>
+<img src="https://cdn-amalp.nitrocdn.com/EPIsoGEOwNoGliAJSLDihKcNNOdQGKoK/assets/static/optimized/rev-9b4e53f/wp-content/uploads/2014/11/standardtablelamp-682x1024.jpg" height="200px">
+
+<p>Desk lamps have a shape designed for illuminating your desktop workspace. They can be manipulated to focus light on a specific place, and are designed with acute function in mind. sleek, modern “bar” design, with a strip of LED lights replacing a standard bulb.</p>
+<img src="https://cdn-amalp.nitrocdn.com/EPIsoGEOwNoGliAJSLDihKcNNOdQGKoK/assets/static/optimized/rev-9b4e53f/wp-content/uploads/2014/11/desklamp1-748x1024.jpg" height="200px">
+   
+<p>Street lamps are commonly found lining streets and highways that turn on during the night. They are usually tall metal poles that arch over the street. Today, street lighting commonly uses high-intensity discharge lamps. Low-pressure sodium (LPS) lamps became commonplace after World War II.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQvY7ZJkLGjZ6yU_xazm_1oPX4KoFN294ZQ&usqp=CAU" height="200px">
+
+<p><a href="https://www.amazon.com/s?k=lamp&ref=nb_sb_noss_1">ORDER LAMPS TODAY</a></p>
+
+</div>
+</body>
+        </html>
