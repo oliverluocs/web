@@ -1,6 +1,4 @@
-title {
-    text-align: center;
-}
+
 
 body {
     background-color: #00FFFF;
@@ -17,6 +15,7 @@ h1 {
     color: #7D0552;
     border-bottom: 1px solid #8D99AE;
     font: 1.2em "Lucida Handwriting", sans-serif;
+	text-align: center;
 }
 
 h2 {
