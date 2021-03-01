@@ -1,19 +1,19 @@
 
 
 body {
-    background-color: #00FFFF;
+    background-color: #99d4ea;
     font: 1.2em "Lucida Console", sans-serif;
 }
 
 p {
 	margin-left: 5px;
-    color: #FF00FF;
+    color: #a11688;
 	margin: 3px 0px 3px 0px;
 	padding-top: 5px;
 }
 
 h1 {
-    color: #7D0552;
+    color: #a11688;
     border-bottom: 1px solid #8D99AE;
     font: 1.8em "Lucida Handwriting", sans-serif;
 	text-align: center;
