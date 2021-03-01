@@ -42,3 +42,21 @@ img
 	padding-right: 20px;
 }
 
+#select ul {
+  border-style: solid;
+  border
+  border-radius: 25px;
+  text-align: center;
+}
+
+#select li {
+  display: inline;
+  border-radius: 20px;
+  border-style: outset;
+  line-height: 2;
+  width: auto;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
